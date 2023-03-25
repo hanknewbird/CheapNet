@@ -1,4 +1,4 @@
-# LPS-Net
+# CheapNet
 Lightweight and Progressively-Scalable Networks for Semantic Segmentation
 
 The original paper can be found [here](https://arxiv.org/pdf/2207.13600.pdf).
